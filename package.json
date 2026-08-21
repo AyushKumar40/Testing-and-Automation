@@ -1,0 +1,23 @@
+{
+  "name": "unque",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/*.test.js --timeout 30000"
+  },
+  "keywords": [
+    "selenium",
+    "sdet",
+    "qa",
+    "automation",
+    "saucedemo"
+  ],
+  "author": "Ayush",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.4.1",
+    "mocha": "^10.4.0",
+    "selenium-webdriver": "^4.20.0"
+  }
+}
